@@ -1,0 +1,21 @@
+title = "Dragon Ball Fusions"
+description = "Dragon Ball Fusions (ドラゴンボールフュージョンズ) is a role-playing video game for the Nintendo 3DS, based on the Dragon Ball franchise."
+github_issues = [1654]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000125600"
+region = "eur"
+release_date = "2017-02-17"
+
+
+[[ testcases ]]
+title = "0004000000125600"
+compatibility = "1"
+date = "2017-06-16"
+version = "HEAD-3146e95"
+author = "Krikic"
+cpu = "Intel Core i5-6400"
+gpu = "GeForce GTX 1070M"
+os = "Windows 10 14393"
